@@ -53,7 +53,7 @@ For multi-wallet automation, airdrop farming, or bypassing geo-restrictions:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/cryptodai3/Mintair-Bot.git
+git clone https://github.com/DalleDai/Mintair-Bot.git
 cd Mintair-Bot
 ```
 
